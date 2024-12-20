@@ -1,2 +1,2 @@
 # utility
-My personal utility repo hosing my notes and utility programs
+My personal repo hosing my utility programs
